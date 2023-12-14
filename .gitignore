@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Ignore virtual environment
-env0/
+envX/
 
 # Ignore log files
 *.log
